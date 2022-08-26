@@ -20,7 +20,7 @@ export default function NavBar(){
       <Navbar style={{ borderBottom: '1px solid #dbdbdb', backgroundColor: '#028599' }} bg="#028599" className="navbar-toggle" expand="lg" fixed="top">
         <Container>
           <Navbar.Brand style={{ display: 'flex', alignItems: 'center' }} href="/">
-            <h4 className="d-none d-md-block">Real Estate House</h4>
+            <h4 className="d-none d-md-block">Offer1</h4>
           </Navbar.Brand>
 
           <Navbar.Toggle aria-controls="responsive-navbar-nav" />

@@ -65,7 +65,7 @@ const getHouses = async()=>{
         <div className="introsec" style={{position: 'absolute', top: 0, zIndex:2}}>
             <div className="container">
                 <div className="sect">
-                    <h4 className="title">REAL ESTATES HOUSES</h4>
+                    <h4 className="title">Offer1 Estates Houses</h4>
                 </div>
             </div>
         </div>
