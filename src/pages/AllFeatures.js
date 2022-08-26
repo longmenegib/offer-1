@@ -41,6 +41,7 @@ export default function AllFeatures() {
         .then((res)=>{
             console.log(res.data);
             setHouses(res.data);
+            setShow(false)
         }).catch((err)=>{
             console.log(err);
         })
